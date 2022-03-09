@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAS-GrundlagenCSharp", "SAS-GrundlagenCSharp\SAS-GrundlagenCSharp.csproj", "{480DAA5D-FF2D-4D9C-B153-CBDC5B3A2696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAS-GrundlagenCSharp", "SAS-GrundlagenCSharp\SAS-GrundlagenCSharp.csproj", "{480DAA5D-FF2D-4D9C-B153-CBDC5B3A2696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finanztabelle", "Finanztabelle\Finanztabelle.csproj", "{200ABA88-8F22-40F4-98FB-DF1B9B67B5F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finanztabelle", "Finanztabelle\Finanztabelle.csproj", "{200ABA88-8F22-40F4-98FB-DF1B9B67B5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays Aufgabe1", "Array 1. übung\Arrays Aufgabe1.csproj", "{BE42E108-CE04-499F-9C05-FC7A9F7C8926}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{200ABA88-8F22-40F4-98FB-DF1B9B67B5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{200ABA88-8F22-40F4-98FB-DF1B9B67B5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{200ABA88-8F22-40F4-98FB-DF1B9B67B5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE42E108-CE04-499F-9C05-FC7A9F7C8926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE42E108-CE04-499F-9C05-FC7A9F7C8926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE42E108-CE04-499F-9C05-FC7A9F7C8926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE42E108-CE04-499F-9C05-FC7A9F7C8926}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
